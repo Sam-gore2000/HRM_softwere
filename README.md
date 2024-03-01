@@ -1,4 +1,4 @@
 # HRM_softwere
 this is my first repository
 <br>
-Author-Sam Gore
+Author-Sam Gore[ram ram bhai]
