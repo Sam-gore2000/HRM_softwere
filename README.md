@@ -1,2 +1,3 @@
 # HRM_softwere
-this project ragarding Human Resource Management
+this is my first repository
+Author-Sam Gore
